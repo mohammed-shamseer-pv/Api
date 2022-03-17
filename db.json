@@ -11,10 +11,32 @@
       "img": "https://www.thebatman.com/assets/images/desktopbanner.jpg"
     }
   ],
-  "youtobe":[
-      {
-          "id":1,
-          "yt":"https://www.youtube.com/embed/8FAUEv_E_xQ" 
-      }
+  "youtobe": [
+    {
+      "id": 1,
+      "name":"BEAST",
+      "yt": "https://www.youtube.com/embed/8FAUEv_E_xQ",
+      "mt": "https://music-apis.netlify.app/music.mp3"
+    },
+    {
+      "id": 2,
+      "name":"Bheeshma Parvam ",
+      "yt": "https://www.youtube.com/embed/O_ZIs4p14Fo"
+    },
+    {
+      "id": 3,
+      "name":"Kanniloru Minnal",
+      "yt": "https://www.youtube.com/embed/QbDnanUFN7c"
+    },
+    {
+      "id": 4,
+      "name":"Sufiyum Sujatayum",
+      "yt": "https://www.youtube.com/embed/H1UdC4ejBFs"
+    },
+    {
+      "id": 5,
+      "name":"KHAIRIYAT (BONUS TRACK)",
+      "yt": "https://www.youtube.com/embed/hoNb6HuNmU0"
+    }
   ]
 }
