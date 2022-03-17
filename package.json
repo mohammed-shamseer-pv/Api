@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mohammed-shamseer-pv/Api.git"
+    "url": "https://zeeapi.netlify.app/"
   },
   "author": "",
   "license": "ISC",
