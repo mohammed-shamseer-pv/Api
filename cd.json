@@ -1,20 +1,60 @@
 {
-  "movie": [
+  "malayalam-movies":[
     {
-      "id": 1,
-      "name": "spiderman",
-      "img": "https://images.unsplash.com/photo-1635805737707-575885ab0820?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8c3BpZGVybWFuJTIwbW92aWV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+      "id":1,
+      "name":"Bahubali the beginning ",
+      "url":"jwFzFLaEvgo"
     },
     {
-      "id": 2,
-      "name": "batman",
-      "img": "https://www.thebatman.com/assets/images/desktopbanner.jpg"
+      "id":2,
+      "name":"Big B ",
+      "url":"vD0GHOyZers"
+    },
+    {
+      "id":3,
+      "name":"Masterpiece",
+      "url":"k4aE-yDvYP4"
+    },
+    {
+      "id":4,
+      "name":"Vaanku",
+      "url":"myBQAgqxN-E"
+    },
+    {
+      "id":5,
+      "name":"DHAMAKA ",
+      "url":"kUwb3t8eHrw"
+    },
+    {
+      "id":6,
+      "name":"DHAMAKA ",
+      "url":"l3zYvhbYa6o&t=4035s"
+    },
+    {
+      "id":7,
+      "name":"Aadu",
+      "url":"kUwb3t8eHrw"
+    },
+    {
+      "id":8,
+      "name":"Simhasanam",
+      "url":"zI8sWVDlZMI"
+    },
+    {
+      "id":9,
+      "name":"DHAMAKA ",
+      "url":"kUwb3t8eHrw"
+    },
+    {
+      "id":10,
+      "name":"Chotta Mumbai [HD ]",
+      "url":"OrSoEiDnW64"
+    },
+    {
+      "id":11,
+      "name":"NARASIMHAM",
+      "url":"Z3g5qGQK7eI"
     }
-  ],
-  "youtobe":[
-      {
-          "id":1,
-          "yt":"https://www.youtube.com/embed/8FAUEv_E_xQ" 
-      }
+   
   ]
 }
