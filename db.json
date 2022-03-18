@@ -67,6 +67,11 @@
   ],
   "malayalam-movies":[
     {
+      "id":0,
+      "name":"Bro Daddy Malayalam",
+      "url":"https://www.youtube.com/embed/uhZKhxhAQlg"
+    },
+    {
       "id":1,
       "name":"Bahubali the beginning ",
       "url":"https://www.youtube.com/embed/jwFzFLaEvgo"
