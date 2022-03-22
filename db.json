@@ -11,7 +11,33 @@
       "img": "https://www.thebatman.com/assets/images/desktopbanner.jpg"
     }
   ],
-  "youtobe": [
+  "youtobe": [ 
+    {
+      "id":11,
+      "name":"Toofan Lyrical(Malayalam) ",
+      "url":"https://www.youtube.com/embed/u0mkx_FYv8g?start=4" 
+    },
+    
+    {
+      "id": 0,
+      "name":"Jolly O Gymkhana",
+      "yt":"https://www.youtube.com/embed/jmwU1iAC-IE?start=17" 
+    },
+    {
+      "id":11,
+      "name":"Rathipushpam Video Song",
+      "url":"https://www.youtube.com/embed/R9HJsEv6_1g?start=19" 
+    },
+    {
+      "id": 0,
+      "name":"Kalaavathi",
+      "yt":  "https://www.youtube.com/embed/Vbu44JdN12s?start=17"
+    },
+     {
+      "id": 0,
+      "name":"Palavattam Kathu Ninnu Njan",
+      "yt": "https://www.youtube.com/embed/yPzbeOzbU7M" 
+    },
     {
       "id": 0,
       "name":"Ayiram Kannulla Malagha",
@@ -67,7 +93,148 @@
       "id": 10,
       "name":"Ajagajantharam",
       "yt": "https://www.youtube.com/embed/6R4S_-vgUEw"
-    }
+    },
+   
+      {
+        "id":11,
+        "name":"Siddhu Kumar - Adipoli",
+        "url":"https://www.youtube.com/embed/bjzI5NN6dfY?start=17" 
+      },
+      {
+        "id":11,
+        "name":"Param Sundari",
+        "url":"https://www.youtube.com/embed/w4ClQO0FFQg?start=17"
+      },
+      {
+        "id":11,
+        "name":"Kacha Badam Song",
+        "url":"https://www.youtube.com/embed/uiqrngFTX5k?start=17" 
+      },
+      {
+        "id":11,
+        "name":"Gulaebaghavali",
+        "url":"https://www.youtube.com/embed/QVgSyvzmbxw?start=17"
+      },
+      {
+        "id":11,
+        "name":"Bachelor",
+        "url": "https://www.youtube.com/embed/HRD2-_bU4K0?start=17" 
+      },
+      {
+        "id":11,
+        "name":"Kutty Pattas Music ",
+        "url": "https://www.youtube.com/embed/KfUExOXxU5Q?start=17" 
+      },
+      {
+        "id":11,
+        "name":"ButtaBomma",
+        "url":"https://www.youtube.com/embed/2mDCVzruYzQ?start=17" 
+      },
+      {
+        "id":11,
+        "name":"Jagame Thandhiram",
+        "url":"https://www.youtube.com/embed/7Y6GrgSJnNQ?start=15" 
+      },
+      {
+        "id":11,
+        "name":"Lut Gaye ",
+        "url":"https://www.youtube.com/embed/sCbbMZ-q4-I?start=19" 
+      },
+       {
+        "id":11,
+        "name":"Tujh Mein Rab Dikhta Hai Song",
+        "url":"https://www.youtube.com/embed/qoq8B8ThgEM?start=19" 
+      },
+      {
+        "id":11,
+        "name":"Tujh Mein Rab Dikhta Hai Song",
+        "url":"https://www.youtube.com/embed/qoq8B8ThgEM?start=19" 
+      },
+      {
+        "id":11,
+        "name":"Kakshi Amminippilla",
+        "url":"https://www.youtube.com/embed/kYDMYNYHMRE?start=3"
+      },
+      {
+        "id":11,
+        "name":"Ashubha Mangalakaari ",
+        "url":"https://www.youtube.com/embed/81jbVOvOUTE?start=3"
+      },
+      {
+        "id":11,
+        "name":"Darshana song",
+        "url":"https://www.youtube.com/embed/Fq1iP_wZzD8?start=3"
+      },
+      {
+        "id":11,
+        "name":"Uyire Song",
+        "url":"https://www.youtube.com/embed/Fd7-FybJlbs?start=48" 
+      }, 
+      {
+        "id":11,
+        "name":" Pushpa",
+        "url":"https://www.youtube.com/embed/hv0ua_mQ1wM?start=14" 
+      },
+      {
+        "id":11,
+        "name":" Madhu Pole Video Song",
+        "url":"https://www.youtube.com/embed/ZbwnKmX0ygc?start=2"
+      } ,
+      {
+        "id":11,
+        "name":"Big Brother",
+        "url": "https://www.youtube.com/embed/WvwAx3ebEwc?start=9" 
+      },
+      {
+        "id":11,
+        "name":"ഉയിരിൽ തൊടും Uyiril Thodum",
+        "url":"https://www.youtube.com/embed/ZKhOs_Pc_7s?start=4" 
+      },
+      {
+        "id":11,
+        "name":"Karinthol Lyrical Song",
+        "url":"https://www.youtube.com/embed/OUteHBP-8No?start=4" 
+      },
+     
+      {
+        "id":11,
+        "name":"Love Action Drama",
+        "url":"https://www.youtube.com/embed/1KpTXAsNpaM?start=4" 
+      },
+      {
+        "id":11,
+        "name":"Manike Mage Hithe",
+        "url":"https://www.youtube.com/embed/PgCliOxl41o?start=6"
+      },
+      {
+        "id":11,
+        "name":"Meri Tarah",
+        "url":"https://www.youtube.com/embed/LMGFhElKlIY?start=25"
+      },
+      {
+        "id":11,
+        "name":"Jaan Hai Meri Song",
+        "url":"https://www.youtube.com/embed/nyKqttrmMS0?start=13" 
+      },
+      {
+        "id":11,
+        "name":"Malang (Title Track)",
+        "url":"https://www.youtube.com/embed/KBIq11mNB0I?start=13" 
+      },
+      {
+        "id":11,
+        "name":"Pakaliravukal ",
+        "url":"https://www.youtube.com/embed/eC7ZXijy_8Y?start=13" 
+      }, {
+        "id":11,
+        "name":"Muqabla |",
+        "url":"https://www.youtube.com/embed/l75z7FrYRXI?start=3"
+      }
+
+
+      
+      
+     
 
   ],
   "malayalam-movies":[
@@ -131,6 +298,8 @@
       "name":"NARASIMHAM",
       "url":"https://www.youtube.com/embed/Z3g5qGQK7eI"
     }
+    
+
    
   ]
 }
